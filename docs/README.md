@@ -15,13 +15,13 @@ Install the currently published version of Sortes from GitHub in `r` with:
 devtools::install_github("osaal/sortes")
 ```
 
-Development of Sortes is done using separate branches for each version. Once the version is completed and checked, it is merged into the `master` branch, compiled locally, and published as an executable.
+Development of Sortes is done using the GitFlow workflow. The `master` branch contains the currently stable, published version. The branch `develop` contains an unstable development version, which would at the time be tested for release. Features are developed on separate branches and merged into `develop` when completed. Hotfixes are developed on separate branches and merged into `main` for immediate release.
 
-Install a developmental branch of Sortes from GitHub in `r` with:
+Install the developmental branch of Sortes from GitHub in `r` with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("osaal/sortes@branch_name")
+devtools::install_github("osaal/sortes@develop")
 ```
 
 ## Licensing
