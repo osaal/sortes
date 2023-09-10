@@ -8,7 +8,7 @@ Sortes is built as a Shiny application, wrapped as an executable for Windows ope
 
 ## Current Status
 
-Sortes is actively developed. It's current version is (VERSION NUMBER TO COME).
+Sortes is actively developed. It's current version is 0.1.0.
 
 ## Installing from GitHub
 
