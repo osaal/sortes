@@ -7,3 +7,6 @@
 #    http://shiny.rstudio.com/
 #
 library(shiny)
+
+# Testing for GitVersion CI (10.9.2023).
+# And again.

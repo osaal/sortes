@@ -6,6 +6,10 @@
 
 Sortes is built as a Shiny application, wrapped as an executable for Windows operating systems. The GitHub repository contains the necessary source code to build and run the application, but through a shell script. For the executable, please see (link to come).
 
+## Current Status
+
+Sortes is actively developed. It's current version is 0.1.0.
+
 ## Installing from GitHub
 
 Install the currently published version of Sortes from GitHub in `r` with:
